@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://dd.pokersky77701.com/tmp/poker.ipa</string>
+					<string>http://dd.galaxycitypoker001.com/tmp/poker.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.bingo.nuttexaspoker</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Mr.Poker</string>
+				<string>GalaxyCity</string>
 			</dict>
 		</dict>
 	</array>
