@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.galaxy001.city</string>
+				<string>com.mrpoker.jhr</string>
 				<key>bundle-version</key>
 				<string>1.2.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>GalaxyCityPoker</string>
+				<string>GCP_Debug</string>
 			</dict>
 		</dict>
 	</array>
